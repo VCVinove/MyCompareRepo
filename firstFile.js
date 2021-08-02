@@ -1,1 +1,1 @@
-let first = 'one';
+let first = 1;
